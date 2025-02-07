@@ -2,6 +2,12 @@
 
 This is a simple Flutter project that demonstrates the Neumorphism design trend using a custom bottom navigation bar with dynamic theming. The project switches between a light and dark theme based on user interaction.
 
+
+
+https://github.com/user-attachments/assets/bb411f43-1092-4a8c-8e51-98072b837bca
+
+
+
 ## Features
 
 - **Neumorphism Design:** The UI is designed with the neumorphism aesthetic, featuring soft shadows and rounded corners for a more tactile look.
